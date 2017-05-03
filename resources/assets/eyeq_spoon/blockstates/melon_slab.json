@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "eyeq_spoon:half_slab_melon" },
+        "half=top": { "model": "eyeq_spoon:upper_slab_melon" }
+    }
+}
